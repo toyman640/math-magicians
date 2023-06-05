@@ -17,7 +17,6 @@
   - [Prerequisites](#prerequisites)
   - [Install](#install)
   - [Usage](#usage)
-  - [Run tests](#run-tests)
   - [Deployment](#triangular_flag_on_post-deployment)
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
@@ -87,7 +86,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
- <p><a href="#">Comming Soon</a></p>
+- [Live Demo Link]**coming soon**
 
 <p align="right">(<a href="#readme-top" >back to top</a>)</p>
 
