@@ -193,7 +193,7 @@ show me your support by following me on github and giving me a star please .
 <!-- LICENSE -->
 
 ## 📝 License <a name="license"></a>
-This project is [MIT](./license.md) licensed.
+This project is [MIT](./LICENSE) licensed.
 
 
 
