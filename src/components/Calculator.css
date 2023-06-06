@@ -1,0 +1,57 @@
+.Container {
+  width: 25%;
+  margin-left: 37.5%;
+  margin-top: 10%;
+}
+
+.Screen {
+  color: #fff;
+  height: 50px;
+  background-color: #50505050;
+}
+
+.Digit {
+  align-items: center;
+  float: right;
+  line-height: 50px;
+  font-size: 20px;
+  margin-right: 1%;
+}
+
+.Row {
+  margin-top: 0;
+  padding-top: 0;
+}
+
+.Other {
+  width: 25%;
+  margin-top: 0;
+  padding-top: 0;
+  border: 0;
+  background-color: #d4d4d2;
+  height: 50px;
+  border-right: 1px solid rgb(138, 137, 137);
+  border-bottom: 1px solid rgb(138, 137, 137);
+}
+
+.Operator {
+  width: 25%;
+  margin-top: 0;
+  padding-top: 0;
+  border: 0;
+  height: 50px;
+  border-right: 1px solid rgb(138, 137, 137);
+  border-bottom: 1px solid rgb(138, 137, 137);
+  background: #ff9500;
+}
+
+.Zero {
+  width: 50%;
+  margin-top: 0;
+  padding-top: 0;
+  border: 0;
+  background-color: #d4d4d2;
+  height: 50px;
+  border-right: 1px solid rgb(138, 137, 137);
+  border-bottom: 1px solid rgb(138, 137, 137);
+}
