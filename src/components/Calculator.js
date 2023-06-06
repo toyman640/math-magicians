@@ -1,5 +1,3 @@
-import './Calculator.css';
-
 function Calculator() {
   return (
     <div className="Container">
