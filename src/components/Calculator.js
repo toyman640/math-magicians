@@ -6,13 +6,13 @@ function Calculator() {
         <button className="Other" type="button">AC</button>
         <button className="Other" type="button">+/-</button>
         <button className="Other" type="button">%</button>
-        <button type="button" className="Operator">&#10135;</button>
+        <button type="button" className="Operator">&#247;</button>
       </div>
       <div className="Row">
         <button className="Other" type="button">7</button>
         <button className="Other" type="button">8</button>
         <button className="Other" type="button">9</button>
-        <button type="button" className="Operator">X</button>
+        <button type="button" className="Operator">x</button>
       </div>
       <div className="Row">
         <button className="Other" type="button">4</button>
