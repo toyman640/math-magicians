@@ -2,12 +2,10 @@ import React, { useState } from 'react';
 import PropTypes from 'prop-types';
 import calculate from '../logic/calculate';
 
+const info = () => ({ total: null, next: null, operation: null });
+
 function Calculator() {
-  const [calculatorState, setCalculatorState] = useState({
-    total: null,
-    next: null,
-    operation: null,
-  });
+  const [calculatorState, setCalculatorState] = useState(() => info());
   const handleLogic = (buttonValue) => {
     const newState = calculate(calculatorState, buttonValue);
     setCalculatorState(newState);
