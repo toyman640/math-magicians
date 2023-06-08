@@ -55,3 +55,8 @@
   border-right: 1px solid rgb(138, 137, 137);
   border-bottom: 1px solid rgb(138, 137, 137);
 }
+
+.Quote {
+  width: 25%;
+  margin-left: 37.5%;
+}
