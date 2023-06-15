@@ -1,6 +1,5 @@
 import calculate from './logic/calculate';
 
-
 it('should reset the values when buttonName is "AC"', () => {
   const result = calculate({ total: '10', next: '5', operation: '+' }, 'AC');
 
@@ -60,4 +59,3 @@ it('should update the next value correctly when buttonName is "+/-"', () => {
     operation: null,
   });
 });
-
