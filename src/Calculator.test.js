@@ -1,6 +1,5 @@
 import React from 'react';
 import renderer from 'react-test-renderer';
-import { render, fireEvent } from '@testing-library/react';
 import Calculator from './components/Calculator';
 
 it('renders correctly', () => {
@@ -42,4 +41,4 @@ it('updates the screen when buttons are clicked', () => {
   buttonEquals.props.onClick();
   tree = component.toJSON();
   expect(tree).toMatchSnapshot();
-})
+});
