@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Quotes renders loading state correctly 1`] = `
+<p
+  className="Quote"
+>
+  Loading...
+</p>
+`;
+
+exports[`renders quote and author from API data 1`] = `
+<p
+  className="Quote"
+>
+  Loading...
+</p>
+`;
