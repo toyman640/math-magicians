@@ -21,3 +21,25 @@ exports[`Home renders correctly 1`] = `
   </p>
 </div>
 `;
+
+exports[`renders correctly 1`] = `
+<div
+  className="Home-section"
+>
+  <h1>
+    Welcome to our page!
+  </h1>
+  <p>
+    Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatum, quod minima id commodi accusantium cupiditate, eius, expedita esse quisquam repudiandae laborum dolorem assumenda libero harum! At iste officia distinctio aliquam.
+  </p>
+  <p>
+    Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatum, quod minima id commodi accusantium cupiditate, eius, expedita esse quisquam repudiandae laborum dolorem assumenda libero harum! At iste officia distinctio aliquam.
+  </p>
+  <p>
+    Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatum, quod minima id commodi accusantium cupiditate, eius, expedita esse quisquam repudiandae laborum dolorem assumenda libero harum! At iste officia distinctio aliquam.
+  </p>
+  <p>
+    Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatum, quod minima id commodi accusantium cupiditate, eius, expedita esse quisquam repudiandae laborum dolorem assumenda libero harum! At iste officia distinctio aliquam.
+  </p>
+</div>
+`;
